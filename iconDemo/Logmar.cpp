@@ -1,6 +1,6 @@
 //void MainWindow::Logmar(){
 //    qDebug()<<"LOGMAR"<<endl;
-
+// NEW
 
 //    QVBoxLayout *log_vl0=new QVBoxLayout;
 //    QGridLayout *log_gl0=new QGridLayout;
