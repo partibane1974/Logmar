@@ -1,5 +1,7 @@
 //void MainWindow::Logmar(){
 //    qDebug()<<"LOGMAR"<<endl;
+
+
 //    QVBoxLayout *log_vl0=new QVBoxLayout;
 //    QGridLayout *log_gl0=new QGridLayout;
 //    log_namex[0]<<"English"<<"Hotvx"<<"Paediatric"<<"Lanc";
